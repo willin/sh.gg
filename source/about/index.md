@@ -11,15 +11,13 @@ Location: *Nanjing, China*
 
 Position: *Enterprise Systems Engineer*
 
-###Follow Me
+### Follow Me
 
 QQ: [2539929](http://wpa.qq.com/msgrd?v=3&uin=2539929&site=qq&menu=yes)
 
 GitHub: <http://github.com/willin>
 
 GitCafe: <http://gitcafe.com/willin>
-
-GooleCode: <http://code.google.com/p/willin>
 
 Twitter: <http://twitter.com/willinwang>
 

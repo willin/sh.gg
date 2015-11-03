@@ -13,6 +13,7 @@ thread: 174
 
 Web.Config:
 
+```xml
     <?xml version="1.0" encoding=”UTF-8″?>
     <configuration>
         <system.webServer>
@@ -34,9 +35,11 @@ Web.Config:
             </rewrite>
         </system.webServer>
     </configuration>
+```
 
 cnurl.php:
 
+```php
 	<?php
     if (isset($_SERVER['HTTP_X_ORIGINAL_URL'])) {
        // IIS Mod-Rewrite
@@ -55,7 +58,7 @@ cnurl.php:
     (isset($_SERVER['QUERY_STRING']) && !empty($_SERVER['QUERY_STRING'])) && ($_SERVER['REQUEST_URI'] .= '?' . $_SERVER['QUERY_STRING']);
     }
     require("index.php");
- 
+``` 
 
 
 支持IIS环境下跑各种开源PHP项目，如：Wordpress、Emlog、Typecho等。

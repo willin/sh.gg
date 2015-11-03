@@ -27,12 +27,16 @@ wp_new_comment
 
 #### 源代码
 
+```php
 	$commentdata['comment_author_IP'] = preg_replace( '/[^0-9a-fA-F:., ]/', '',$_SERVER['REMOTE_ADDR'] );
 	$commentdata['comment_agent'] = substr($_SERVER['HTTP_USER_AGENT'], 0, 254);
+```
 
 #### 之后添加
 
-    if($commentdata['user_id']==1){  //一般情况admin的id是1，情侣博客加个或等于2即可
+```php
+if($commentdata['user_id']==1){  //一般情况admin的id是1，情侣博客加个或等于2即可
  	$commentdata['comment_author_IP'] = '1.1.1.1'; //我会告诉你我填的什么吗
 	$commentdata['comment_agent'] = 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.89 Safari/537.1';//我会告诉你我填的什么吗
 }
+```

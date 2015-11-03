@@ -19,8 +19,10 @@ thread: 184
 
 ### 解决方法
 
+```php
 	$config['newline'] = "\r\n";
 	$config['crlf'] = "\r\n"; 
+```
 
 将配置文件中加入以上两个配置属性。
 
