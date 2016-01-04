@@ -3,7 +3,7 @@ date: 2014-07-04
 layout: post
 title: 卸载Mac默认的Xcode附带的git
 categories: note
-tags: git mac
+tags: [git,mac]
 thread: 800
 ---
 
