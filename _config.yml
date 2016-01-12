@@ -73,9 +73,10 @@ avatar: http://www.gravatar.com/avatar/e87b264d88631de777ecfe2abb602de6?size=128
 # Social links
 social:
   Love: http://willin.love
-  Willog: http://now.willin.wang
-  Resume: http://now.willin.wang/cv/
   GitHub: https://github.com/willin
+  Willog: http://now.willin.wang
+  Jianshu: http://www.jianshu.com/users/6c72e78080ff
+  Resume: http://now.willin.wang/cv/
   Weibo: http://weibo.com/willinx
 
 
@@ -87,4 +88,4 @@ deploy:
   branch: gh-pages
 - type: git
   repo: git@gitcafe.com:willin/blog.willin.wang.git
-  branch: gitcafe-pages  
+  branch: gitcafe-pages
