@@ -17,17 +17,21 @@ usage() {
 # start app
 commit() {
 	git add .
-	git commit -m 'Post Auto Commit at ${DATE}'
+	git commit -m 'Post Auto Commit'
+	git push
+	git push gitcafe master
 }
 
 build() {
-	cd $DIR/../../bbs && NODE_ENV=debug $PM2 start $DIR/../../bbs/app.js -x --name bbs -e $DIR/../logs/bbs-err.log -o $DIR/../logs/bbs-out.log --watch --ignore-watch="test node_modules" --merge-logs
+	clean
+	hexo d -g
+	clean
 }
 
 # stop app
 clean() {
-	$PM2 stop bbs
-	$PM2 delete bbs
+	rm -rf .deploy_git
+	rm -rf public
 }
 
 case "$ACTION" in
