@@ -17,7 +17,7 @@ usage() {
 # start app
 commit() {
 	git add .
-	git commit -m 'Post Auto Commit at $DATE'
+	git commit -m 'Post Auto Commit at ${DATE}'
 }
 
 build() {
