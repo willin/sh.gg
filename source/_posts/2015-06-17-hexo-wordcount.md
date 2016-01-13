@@ -12,7 +12,9 @@ tags: [node.js,hexo,plugin]
 
 <!-- more -->
 
-[![npm](https://img.shields.io/npm/dm/hexo-wordcount.svg?style=plastic)](https://npmjs.org/package/hexo-wordcount) 
+[![npm](https://img.shields.io/npm/dm/hexo-wordcount.svg)](https://npmjs.org/package/hexo-wordcount) 
+
+[![npm](https://img.shields.io/npm/dt/hexo-wordcount.svg)](https://npmjs.org/package/hexo-wordcount) 
 
 项目地址： [https://npmjs.org/package/hexo-wordcount](https://npmjs.org/package/hexo-wordcount)
 
@@ -44,7 +46,7 @@ npm i --save hexo-wordcount
 
 A Word Count plugin for Hexo.
 
-## Installation and Usage
+## Installation 
 
 ### Install
 
@@ -52,17 +54,48 @@ A Word Count plugin for Hexo.
 npm install hexo-wordcount --save
 ```
 
-### Post Count:
+## Usage
 
-```
+### Swig
+
+Post Count:
+
+```swig
    <span class="post-count">{{ wordcount(post.content) }}</span>
 ```
 
-### Total Count:
+Total Count:
 
-
-```
+```swig
    <span class="post-count">{{ totalcount(site) }}</span>
+```
+
+### Ejs
+
+Post Count:
+
+```ejs
+   <span class="post-count"><%= wordcount(post.content) %></span>
+```
+
+Total Count:
+
+```ejs
+   <span class="post-count"><%= totalcount(site) %></span>
+```
+
+### Jade
+
+Post Count:
+
+```jade
+   span.post-count= wordcount(post.content)
+```
+
+Total Count:
+
+```swig
+   span.post-count= totalcount(site)
 ```
 
 ## LICENSE
