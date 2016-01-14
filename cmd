@@ -23,9 +23,7 @@ commit() {
 }
 
 build() {
-	clean
 	hexo d -g
-	clean
 }
 
 # stop app
