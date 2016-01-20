@@ -3,7 +3,7 @@ date: 2015-04-29
 layout: post
 title: js版Leetcode spiral-matrix-ii
 categories: dev
-tags: [js,node.js, algorithm]
+tags: [js, algorithm]
 thread: 805
 ---
 

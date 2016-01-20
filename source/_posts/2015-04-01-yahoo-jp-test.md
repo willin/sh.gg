@@ -3,7 +3,7 @@ date: 2015-04-01
 layout: post
 title: 日本雅虎程序员跳槽程序测试问题
 categories: dev
-tags: [js,node.js, algorithm]
+tags: [js, algorithm]
 thread: 803
 ---
 

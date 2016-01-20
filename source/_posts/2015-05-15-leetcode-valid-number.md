@@ -3,7 +3,7 @@ date: 2015-05-15
 layout: post
 title: js版Leetcode接受率最低题valid-number
 categories: dev
-tags: [js,node.js, algorithm]
+tags: [js, algorithm]
 thread: 806
 ---
 

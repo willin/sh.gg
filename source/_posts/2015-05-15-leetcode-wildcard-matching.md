@@ -3,7 +3,7 @@ date: 2015-05-15
 layout: post
 title: js版Leetcode第一难题wildcard-matching
 categories: dev
-tags: [js,node.js, algorithm]
+tags: [js, algorithm]
 thread: 807
 ---
 
