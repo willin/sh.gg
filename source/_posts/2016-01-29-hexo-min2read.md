@@ -30,7 +30,7 @@ npm i --save hexo-wordcount
 ### 升级
 
 ```
-npm update hex-wordcount --save
+npm update hexo-wordcount --save
 ```
 
 ### 使用
