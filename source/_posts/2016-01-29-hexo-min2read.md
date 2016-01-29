@@ -27,6 +27,12 @@ tags: [node.js,hexo,plugin]
 npm i --save hexo-wordcount
 ```
 
+### 升级
+
+```
+npm update hex-wordcount --save
+```
+
 ### 使用
 
 修改主题模板,
