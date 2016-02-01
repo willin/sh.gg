@@ -1,4 +1,3 @@
----
 date: 2016-01-20 16:55:02
 layout: post
 title: js版Leetcode Single Number

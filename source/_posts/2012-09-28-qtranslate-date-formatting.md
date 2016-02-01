@@ -1,4 +1,3 @@
----
 date: 2012-09-28
 layout: post
 title: qTranslate插件日期乱码的解决方案

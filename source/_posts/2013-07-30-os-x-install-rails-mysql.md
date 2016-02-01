@@ -1,4 +1,3 @@
----
 date: 2013-07-30
 layout: post
 title: Mac OS X 配置Ruby On Rails环境

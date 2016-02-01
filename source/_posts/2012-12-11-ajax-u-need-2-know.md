@@ -1,4 +1,3 @@
----
 date: 2012-12-11
 layout: post
 title: AJAX U Need 2 Know (AJAX常见误区整理)

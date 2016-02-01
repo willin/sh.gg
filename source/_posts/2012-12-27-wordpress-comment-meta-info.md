@@ -1,4 +1,3 @@
----
 date: 2012-12-27
 layout: post
 title: 保护你的WordPress，隐藏真实评论Meta信息

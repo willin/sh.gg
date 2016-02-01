@@ -1,4 +1,3 @@
----
 date: 2013-12-17
 layout: post
 title: RubyMine for Mac最佳内存设置

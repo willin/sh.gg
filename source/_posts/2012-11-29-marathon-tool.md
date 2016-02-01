@@ -1,4 +1,3 @@
----
 date: 2012-11-29
 layout: post
 title: Marathon Tool 汉化版，基于时间的SQL盲注工具

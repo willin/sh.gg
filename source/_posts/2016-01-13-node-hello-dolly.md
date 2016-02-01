@@ -1,4 +1,3 @@
----
 date: 2016-01-13 17:05:23
 layout: post
 title: Node.js版Hello Dolly

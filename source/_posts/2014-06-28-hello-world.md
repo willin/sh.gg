@@ -1,4 +1,3 @@
----
 date: 2014-06-28
 layout: post
 title: 你好，世界！

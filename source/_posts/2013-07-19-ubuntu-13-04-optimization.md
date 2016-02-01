@@ -1,4 +1,3 @@
----
 date: 2013-07-19
 layout: post
 title: Ubuntu 13.04优化设置

@@ -1,4 +1,3 @@
----
 date: 2012-11-27
 layout: post
 title: IIS环境下PHP重写设置(支持中文参数)

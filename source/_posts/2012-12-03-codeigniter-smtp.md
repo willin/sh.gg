@@ -1,4 +1,3 @@
----
 date: 2012-12-03
 layout: post
 title: CodeIgniter邮件SMTP发送响应超时配置解决方案
