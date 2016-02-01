@@ -1,5 +1,6 @@
+date: 2016-01-29 10:15:02
+layout: post
 title: Hexo文章阅读时长预计
-date: 2016-01-29 10:29:29
 categories: dev
 tags: [node.js,hexo,plugin]
 ---

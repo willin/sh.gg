@@ -1,5 +1,6 @@
 title: Hexo文章计数插件WordCount
 date: 2015-06-17 17:53:51
+layout: post
 categories: dev
 tags: [node.js,hexo,plugin]
 ---
