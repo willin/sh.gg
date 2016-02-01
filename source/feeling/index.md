@@ -3,9 +3,9 @@ title: Feeling
 
 ## 关于公益
 
-自2010年11月至更新这篇日志（2014.12.18），已在腾讯公益月捐网站为壹基金捐赠<span style="font-weight: bold; color: #f60;">48个月</span>，总计<span style="font-weight: bold; color: #f60;">430元</span>，参与公益活动<span style="font-weight: bold; color: #f60;">2个</span>，为筑力计划捐赠微爱梦想<span style="font-weight: bold; color: #f60;">35个</span>，总计<span style="font-weight: bold; color: #f60;">136.5元</span>。在新浪微博微绿活动中捐款<span style="font-weight: bold; color: #f60;">10元</span>，以及通过淘宝公益商品等方式献出了一份份公益爱心。
+自2010年11月至更新这篇日志（2016.01.02），已在腾讯公益月捐网站为壹基金捐赠<span style="font-weight: bold; color: #f60;">60个月</span>，总计<span style="font-weight: bold; color: #f60;">600元</span>，参与公益活动<span style="font-weight: bold; color: #f60;">2个</span>，为筑力计划捐赠微爱梦想<span style="font-weight: bold; color: #f60;">35个</span>，总计<span style="font-weight: bold; color: #f60;">136.5元</span>。在新浪微博微绿活动中捐款<span style="font-weight: bold; color: #f60;">10元</span>，以及通过淘宝公益商品等方式献出了一份份公益爱心。
 
-并打算再开通环保绿化或贫困孤儿助养月捐计划。但由于个人能力有限，希望聚各位基友的爱心，为公益献出一些力量。
+但由于个人能力有限，希望聚各位基友的爱心，为公益献出一些力量。
 
 ---
 
@@ -37,7 +37,7 @@ title: Feeling
 
 ## About Public Welfare
 
-Ever since Nov. 2010, by the time (Dec 18th, 2014), I have donated to the One Foundation for 48 months, RMB 480 in total, taken part in 2 Welfare Activities and have donated to 35 Micro Dream Projects on Tecent Welfare NPO, RMB 136.5 in total. Besides, I have donated RMB 10 in Sina Weibo Micro Green activity, through Taobao Pulic Walfare Productions, and through other methods, just to make my little love spread.
+Ever since Nov. 2010, by the time (Dec 18th, 2014), I have donated to the One Foundation for 60 months, RMB 600 in total, taken part in 2 Welfare Activities and have donated to 35 Micro Dream Projects on Tecent Welfare NPO, RMB 136.5 in total. Besides, I have donated RMB 10 in Sina Weibo Micro Green activity, through Taobao Pulic Walfare Productions, and through other methods, just to make my little love spread.
 
 I have a plan to start another monthly donation project, but that I am limited becourse an individual’s power is not strong enough. That’s why I hope everyone to be generous and give a little love.
 
