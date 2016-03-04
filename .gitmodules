@@ -1,4 +1,0 @@
-[submodule "themes/next"]
-	path = themes/next
-	url = git@github.com:iissnan/hexo-theme-next.git
-	branch = pisces

@@ -19,7 +19,6 @@ commit() {
 	git add .
 	git commit -m 'Post Auto Commit'
 	git push
-	git push gitcafe master
 }
 
 build() {
