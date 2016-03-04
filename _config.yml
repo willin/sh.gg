@@ -86,6 +86,3 @@ deploy:
 - type: git
   repo: git@github.com:willin/blog.willin.wang.git
   branch: gh-pages
-- type: git
-  repo: git@gitcafe.com:willin/blog.willin.wang.git
-  branch: gitcafe-pages
