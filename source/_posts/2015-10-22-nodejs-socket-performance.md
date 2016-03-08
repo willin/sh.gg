@@ -2,7 +2,7 @@ title: Node.js跨应用TCP Socket连接通讯优化
 layout: post
 date: 2015-10-22 14:14:30
 categories: dev
-tags: [node.js,performance]
+tags: [logic,node.js,performance]
 ---
 
 ## 应用场景描述

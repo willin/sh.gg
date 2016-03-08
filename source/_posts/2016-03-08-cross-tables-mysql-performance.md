@@ -2,7 +2,7 @@ title: MySQL跨表数据同步优化
 layout: post
 date: 2016-03-08 19:30:21
 categories: dev
-tags: [sql,performance]
+tags: [logic,sql,performance]
 ---
 
 ## 应用场景描述
