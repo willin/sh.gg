@@ -10,7 +10,7 @@ ACTION=$1
 
 # help
 usage() {
-  echo "Usage: ./shell {commit|build|clean}"
+  echo "Usage: ./cmd {commit|build|clean}"
   exit 1;
 }
 
