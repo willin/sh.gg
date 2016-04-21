@@ -75,26 +75,40 @@ const ecs = ECS(options);
 
 ## 已支持的接口
 
+Github主页上检查最新版本: <https://github.com/willin/waliyun>
+
 ### CDN
 
-API文档参考： <https://help.aliyun.com/document_detail/cdn/api-reference/overview.html>
+API文档参考：
+
+<https://help.aliyun.com/document_detail/cdn/api-reference/overview.html>
 
 ### 云服务器 ECS
 
-API文档参考： <https://help.aliyun.com/document_detail/ecs/open-api/apisummary.html>
+API文档参考：
+
+<https://help.aliyun.com/document_detail/ecs/open-api/apisummary.html>
 
 ### 云监控 Metrics
 
-API文档参考：<https://help.aliyun.com/document_detail/cms/API_References/New_Metric_OpenAPI_Reference/API_Guide.html>
+API文档参考：
+
+<https://help.aliyun.com/document_detail/cms/API_References/New_Metric_OpenAPI_Reference/API_Guide.html>
 
 ### 访问控制 RAM
 
-API文档参考：<https://help.aliyun.com/document_detail/ram/ram-api-reference/intro/intro.html>
+API文档参考：
+
+<https://help.aliyun.com/document_detail/ram/ram-api-reference/intro/intro.html>
 
 ### 云数据库 RDS
 
-API文档参考：<https://help.aliyun.com/document_detail/rds/OpenAPI-manual/RDS-OpenAPI-Invoke/API-catalog.html>
+API文档参考：
+
+<https://help.aliyun.com/document_detail/rds/OpenAPI-manual/RDS-OpenAPI-Invoke/API-catalog.html>
 
 ### 访问控制 STS
 
-API文档参考：<https://help.aliyun.com/document_detail/ram/sts-api-reference/intro.html>
+API文档参考：
+
+<https://help.aliyun.com/document_detail/ram/sts-api-reference/intro.html>
