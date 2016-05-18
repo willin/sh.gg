@@ -1,0 +1,123 @@
+# ---------------------------------------------------------------
+# Site Information Settings
+# ---------------------------------------------------------------
+
+# Place your favicon.ico to /source directory.
+favicon: /favicon.ico
+
+# Set default keywords (Use a comma to separate)
+keywords: "Willin,长岛冰泪,W2B,W3log"
+
+
+# Specify the date when the site was setup
+since: 2003
+
+
+
+
+# ---------------------------------------------------------------
+# Menu Settings
+# ---------------------------------------------------------------
+
+# When running hexo in a subdirectory (e.g. domain.tld/blog)
+# Remove leading slashes ( "/archives" -> "archives" )
+menu:
+  home: /
+  about: /about
+  feeling: /feeling
+  categories: /categories
+  tags: /tags
+  archives: /archives
+  #commonweal: /404.html
+
+
+# Enable/Disable menu icons.
+# Icon Mapping:
+#   Map a menu item to a specific FontAwesome icon name.
+#   Key is the name of menu item and value is the name of FontAwsome icon.
+#   When an question mask icon presenting up means that the item has no mapping icon.
+menu_icons:
+  enable: true
+  # Icon Mapping.
+  home: home
+  about: user
+  feeling: heart
+  categories: th
+  tags: tags
+  archives: archive
+  commonweal: heartbeat
+
+
+
+
+# ---------------------------------------------------------------
+# Scheme Settings
+# ---------------------------------------------------------------
+
+# Schemes
+# scheme: Muse
+# scheme: Mist
+scheme: Pisces
+
+
+
+# ---------------------------------------------------------------
+# Sidebar Settings
+# ---------------------------------------------------------------
+
+
+# Social links
+# social:
+  #GitHub:
+  #Others:
+
+# Social Icons
+social_icons:
+  enable: true
+  # Icon Mappings
+  GitHub: github
+  Willog: battery-full
+  Love: venus-mars
+  JianShu: heartbeat
+  Resume: user-secret
+  Twitter: twitter
+  Weibo: weibo
+
+
+# Sidebar Avatar
+#avatar:
+
+
+# Creative Commons 4.0 International License.
+# http://creativecommons.org/
+# Available: by | by-nc | by-nc-nd | by-nc-sa | by-nd | by-sa | zero
+#creative_commons: by-nc-sa
+#creative_commons:
+
+sidebar:
+  # Sidebar Position, available value: left | right
+  position: left
+  #position: right
+
+  # Sidebar Display, available value:
+  #  - post    expand on posts automatically. Default.
+  #  - always  expand for all pages automatically
+  #  - hide    expand only when click on the sidebar toggle icon.
+  #  - remove  Totally remove sidebar including sidebar toggle icon.
+#  display: post
+  display: always
+  #display: hide
+  #display: remove
+font:
+  enable: true
+
+  global:
+    # external: true will load this font family from host.
+    external: true
+    family: Monda
+  headings:
+    external: true
+    family: 'Roboto Slab'
+  logo:
+    external: true
+    family: 'Lobster Two'
