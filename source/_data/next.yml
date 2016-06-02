@@ -8,7 +8,10 @@ favicon: /favicon.ico
 # Set default keywords (Use a comma to separate)
 keywords: "Willin,长岛冰泪,W2B,W3log"
 
-
+links_title: Links
+links:
+  公司团队: http://blog.sh.gg/
+  
 # Specify the date when the site was setup
 since: 2003
 
