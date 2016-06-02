@@ -79,6 +79,9 @@ social:
   Resume: http://now.willin.wang/cv/
   Weibo: http://weibo.com/willinx
 
+search:
+  path: search.xml
+  field: post
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html

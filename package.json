@@ -12,11 +12,12 @@
     "hexo-generator-category": "^0.1.2",
     "hexo-generator-feed": "^1.1.0",
     "hexo-generator-index": "^0.2.0",
+    "hexo-generator-search": "^1.0.2",
     "hexo-generator-tag": "^0.2.0",
     "hexo-renderer-ejs": "^0.2.0",
     "hexo-renderer-marked": "^0.2.10",
     "hexo-renderer-stylus": "^0.3.1",
     "hexo-server": "^0.2.0",
-    "hexo-wordcount": "^1.1.0"
+    "hexo-wordcount": "^1.2.0"
   }
 }

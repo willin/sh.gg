@@ -12,9 +12,6 @@ keywords: "Willin,长岛冰泪,W2B,W3log"
 # Specify the date when the site was setup
 since: 2003
 
-
-
-
 # ---------------------------------------------------------------
 # Menu Settings
 # ---------------------------------------------------------------
@@ -121,3 +118,12 @@ font:
   logo:
     external: true
     family: 'Lobster Two'
+
+reward_comment: 壕，请用金钱羞辱我！
+wechatpay: /static/images/wx.png
+alipay: /static/images/qr.png
+
+leancloud_visitors:
+  enable: true
+  app_id: ROulbl01OhQ1zSLXnsfgvJ80-gzGzoHsz
+  app_key: dh6F1G424YmhrtpPlxhOWygx
