@@ -11,6 +11,7 @@
 
       $visitors.each(function () {
         entries.push( $(this).attr("id").trim() );
+        $(this).children('.leancloud-visitors-count').text('0');
       });
 
       query.containedIn('url', entries);
@@ -53,7 +54,7 @@
             counter.save(null, {
               success: function(counter) {
                 var $element = $(document.getElementById(url));
-                $element.find('.leancloud-visitors-count').text(counter.get('time') || '0');
+                $element.find('.leancloud-visitors-count').text(counter.get('time'));
               },
               error: function(counter, error) {
                 console.log('Failed to save Visitor num, with error message: ' + error.message);
@@ -73,7 +74,7 @@
             newcounter.save(null, {
               success: function(newcounter) {
                 var $element = $(document.getElementById(url));
-                $element.find('.leancloud-visitors-count').text(newcounter.get('time') || '0');
+                $element.find('.leancloud-visitors-count').text(newcounter.get('time'));
               },
               error: function(newcounter, error) {
                 console.log('Failed to create');
