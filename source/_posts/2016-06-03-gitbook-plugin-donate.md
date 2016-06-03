@@ -9,6 +9,8 @@ tags: [node.js,gitbook,plugin]
 
 [![npm](https://img.shields.io/npm/v/gitbook-plugin-donate.svg?style=plastic)](https://npmjs.org/package/gitbook-plugin-donate) [![npm](https://img.shields.io/npm/dm/gitbook-plugin-donate.svg?style=plastic)](https://npmjs.org/package/gitbook-plugin-donate) [![npm](https://img.shields.io/npm/dt/gitbook-plugin-donate.svg?style=plastic)](https://npmjs.org/package/gitbook-plugin-donate)
 
+项目主页：<https://plugins.gitbook.com/plugin/donate>
+
 Config:
 
 ```json
@@ -36,5 +38,7 @@ Config:
 ## LICENSE
 
 MIT
+
+贡献代码： <https://github.com/willin/gitbook-plugin-donate>
 
 如果喜欢，千万别吝啬打赏~
