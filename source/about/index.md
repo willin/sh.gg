@@ -24,7 +24,7 @@ Weibo: <http://weibo.com/willinx>
 
 ![](http://c3.gostats.cn/bin/count/a_358322/t_7/i_3/z_0/show_hosts/counter.png)
 
-欢迎您，第N位访客! 我是***王之琳 Willin Wang***。位于[南京市·浦口区](http://j.map.baidu.com/yjprA)。生日89年6月，男。生下来是个胖子，长成了瘦子，现在又变成了胖子……
+欢迎您，第N位访客! 我是***王之琳 Willin Wang***。位于[南京市·江宁区](http://j.map.baidu.com/CGvMC)。生日89年6月，男。生下来是个胖子，长成了瘦子，现在又变成了胖子……
 
 目前从事技术经理、架构师。
 
