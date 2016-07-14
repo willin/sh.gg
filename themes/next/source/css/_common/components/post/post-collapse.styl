@@ -1,6 +1,9 @@
 // TODO: Refactor.
 
 @media (max-width: 767px) {
+  .post-read,.post-count {
+    display: none;
+  }
   .posts-collapse {
     margin: 0 20px;
 
@@ -15,7 +18,7 @@
 .posts-collapse {
   position: relative;
   z-index: $zindex-1;
-  
+
   &::after {
     content: " ";
     position: absolute;

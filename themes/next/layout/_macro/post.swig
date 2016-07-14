@@ -47,13 +47,12 @@
 
         <div class="post-meta">
           <span class="post-read">阅读预计 {{ min2read(post.content) }} 分钟 </span>
-          <span class="post-count">   &nbsp; | &nbsp; {{ wordcount(post.content) }} 字 </span>
+          <span class="post-count">   &nbsp; | &nbsp; {{ wordcount(post.content) }} 字  &nbsp; | &nbsp; </span>
 
 
           {# LeanCould PageView #}
           {% if theme.leancloud_visitors.enable %}
              <span id="{{ url_for(post.path) }}" class="leancloud_visitors" data-flag-title="{{ post.title }}">
-               &nbsp; | &nbsp;
                <span class="post-meta-item-icon">
                  <i class="fa fa-eye"></i>
                </span>
@@ -115,7 +114,7 @@
               </span>
           {% endif %}
 
-          <br>
+          &nbsp; | &nbsp;
 
           <span class="post-time">
             <span class="post-meta-item-icon">
