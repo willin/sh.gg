@@ -37,6 +37,12 @@
       </div>
     {% else %}
       {{ page.content }}
+      <div>
+        {% if not is_index %}
+          {% include '_macro/reward.swig' %}
+        {% endif %}
+      </div>
+
     {% endif %}
   </div>
 
