@@ -4,7 +4,6 @@ DIR=$(pwd -L)
 popd > /dev/null
 DATE=$(date +"%Y-%m-%d %H:%M")
 
-PM2=`which pm2`
 # get action
 ACTION=$1
 
