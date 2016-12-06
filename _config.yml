@@ -83,6 +83,13 @@ search:
   path: search.xml
   field: post
 
+plugin_json:
+  path: feed.jsonp # 生成的文件名
+  is_full_url: true # 是否显示完整的 url 或 path
+  date: true # 提取日期字段
+  is_jsonp: true # jsonp 模式
+  callback: callback # 回调函数名
+
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
