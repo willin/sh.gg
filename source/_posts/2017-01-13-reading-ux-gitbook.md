@@ -5,7 +5,7 @@ categories: dev
 tags: [js,gitbook,plugin,front-end]
 ---
 
-新键盘入手，HHKB Professional 2 Type-S
+新键盘入手，[HHKB Professional 2 Type-S](https://s.click.taobao.com/DCiWICx)
 
 ![hhkb](https://cloud.githubusercontent.com/assets/1890238/21916492/0384a92c-d97c-11e6-8a0d-8b4cf6e1b96d.jpg)
 
