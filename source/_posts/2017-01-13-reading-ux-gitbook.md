@@ -1,8 +1,8 @@
 title: 前端阅读体验优化-GitBook自动换肤
 date: 2017-01-13 10:33:18
 layout: post
-categories: note
-tags: [mac]
+categories: dev
+tags: [js,gitbook,plugin,front-end]
 ---
 
 新键盘入手，HHKB Professional 2 Type-S
