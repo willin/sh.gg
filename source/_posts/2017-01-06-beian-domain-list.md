@@ -1,4 +1,4 @@
-title: 国内可备案域名后缀列表
+title: 国内可备案域名后缀及价格列表
 date: 2017-02-26 19:14:48
 layout: post
 categories: note
@@ -472,6 +472,74 @@ tags: [domain]
 * .香港
 
 查询地址： <http://www.miibeian.gov.cn/basecode/query/queryDomain.action>
+
+## 可备案域名价格（从低到高）
+
+* .网店,1
+* .商标,2
+* .pw,14
+* .site,16
+* .ink,24
+* .top,26
+* .gs,28
+* .vip,29
+* .cn,38
+* .cx,38
+* .cn,38
+* .ren,38
+* .in,45
+* .vc,48
+* .wang,49
+* .cc,58
+* .cc,58
+* .club,60
+* .com,60
+* .xyz,64
+* .biz,68
+* .name,68
+* .us,68
+* .info,68
+* .信息,69
+* .net,69
+* .net,69
+* .com,69
+* .org,75
+* .xin,86
+* .pro,88
+* .mobi,88
+* .me,88
+* .asia,88
+* .com.co,98
+* .biz,99
+* .com.tw,108
+* .tw,108
+* .hk,118
+* .gov.cn,120
+* .ee,128
+* .lc,138
+* .com.hk,158
+* .co,159
+* .ws,159
+* .shop,168
+* .la,178
+* .广东,180
+* .佛山,180
+* .tv,180
+* .bz,198
+* .tv,199
+* .gg,298
+* .公司,320
+* .网络,320
+* .中国,320
+* .cd,400
+* .sc,688
+* .tm,990
+* .tm,990
+
+数据来源： [西部数码](http://www.west.cn?ReferenceID=1178840)
+
+<!-- http://www.west.cn/web/price/domainpricelist -->
+
 
 ## 授人以鱼不如授人以渔
 
@@ -952,10 +1020,6 @@ ba.sort().map(x => `* ${x}`).join('\n');
 
 ## 域名注册价格排序
 
-数据来源： [西部数码](http://www.west.cn?ReferenceID=1178840)
-
-<!-- http://www.west.cn/web/price/domainpricelist -->
-
 获取域名列表和续费价格：
 
 ```js
@@ -1188,64 +1252,5 @@ list.filter(x=>ba.indexOf(x[0])!==-1).sort((x,y)=>x[1]-y[1]);
 list.filter(x=>ba.indexOf(x[0])!==-1).sort((x,y)=>x[1]-y[1]).map(x=>`* ${x[0]},${x[1]}`).join('\n');
 ```
 
-* .网店,1
-* .商标,2
-* .pw,14
-* .site,16
-* .ink,24
-* .top,26
-* .gs,28
-* .vip,29
-* .cn,38
-* .cx,38
-* .cn,38
-* .ren,38
-* .in,45
-* .vc,48
-* .wang,49
-* .cc,58
-* .cc,58
-* .club,60
-* .com,60
-* .xyz,64
-* .biz,68
-* .name,68
-* .us,68
-* .info,68
-* .信息,69
-* .net,69
-* .net,69
-* .com,69
-* .org,75
-* .xin,86
-* .pro,88
-* .mobi,88
-* .me,88
-* .asia,88
-* .com.co,98
-* .biz,99
-* .com.tw,108
-* .tw,108
-* .hk,118
-* .gov.cn,120
-* .ee,128
-* .lc,138
-* .com.hk,158
-* .co,159
-* .ws,159
-* .shop,168
-* .la,178
-* .广东,180
-* .佛山,180
-* .tv,180
-* .bz,198
-* .tv,199
-* .gg,298
-* .公司,320
-* .网络,320
-* .中国,320
-* .cd,400
-* .sc,688
-* .tm,990
-* .tm,990
+全文完。
 
