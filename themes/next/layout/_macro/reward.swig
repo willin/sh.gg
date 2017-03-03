@@ -20,7 +20,7 @@
     </div>
   </div>
 
-<div style="width:336px;height:280px;margin 10px auto;">
+<div style="width:336px;height:280px;margin: 10px auto;">
 <ins class="adsbygoogle"
      style="display:inline-block;width:336px;height:280px"
      data-ad-client="ca-pub-5059418763237956"
