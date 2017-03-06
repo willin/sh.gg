@@ -69,7 +69,8 @@ theme: next
 disqus_shortname: willin
 creative_commons: by-nc
 since: 2009
-avatar: http://www.gravatar.com/avatar/e87b264d88631de777ecfe2abb602de6?size=128
+avatar: https://up.js.cool/willin/icon
+#avatar: http://www.gravatar.com/avatar/e87b264d88631de777ecfe2abb602de6?size=128
 # Social links
 social:
   Love: http://willin.love
