@@ -6,5 +6,5 @@ install:
 script: npm start
 env:
   global:
-    GH_REF: github.com/willin/blog.willin.wang.git
-    secure: i3xgniVBKXepdgbEXUmxSURtGwNYvlPfMLf9UE6Fd6d8UNECjCTtl/1ZHdLWfJkmvIIfvp8YG8waXbG4gZeuYCkhBjsl0Pz4EUnqrXzldi6LeVFwmKr75Ksni49inJz1XVfNIrqEv50teJZGOEJ9b1BYn+ioC8sCqPu9DCt8T0c=
+    - GH_REF: github.com/willin/blog.willin.wang.git
+    - secure: i3xgniVBKXepdgbEXUmxSURtGwNYvlPfMLf9UE6Fd6d8UNECjCTtl/1ZHdLWfJkmvIIfvp8YG8waXbG4gZeuYCkhBjsl0Pz4EUnqrXzldi6LeVFwmKr75Ksni49inJz1XVfNIrqEv50teJZGOEJ9b1BYn+ioC8sCqPu9DCt8T0c=

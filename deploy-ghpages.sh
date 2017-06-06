@@ -7,5 +7,5 @@ node_modules/hexo/bin/hexo generate
  git config user.email "travis@nodemeatspace.com"
  git add .
  git commit -m "Travis-CI Deployed to Github Pages"
- git push --force --quiet "https://${GH_TOKEN}@${GH_REF}" master:gh-pages 
+ git push --force --quiet "https://${GH_TOKEN}@${GH_REF}" master:gh-pages > /dev/null 2>&1
 )
