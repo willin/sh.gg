@@ -16,6 +16,11 @@ links:
 # Specify the date when the site was setup
 since: 2003
 
+disqus:
+  enable: true
+  shortname: willin
+  count: true
+
 # ---------------------------------------------------------------
 # Menu Settings
 # ---------------------------------------------------------------

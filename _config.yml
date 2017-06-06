@@ -66,11 +66,6 @@ pagination_dir: page
 ## Themes: http://hexo.io/themes/
 theme: next
 
-disqus:
-  enable: true
-  shortname: willin
-  count: true
-
 creative_commons: by-nc
 since: 2009
 avatar: https://up.js.cool/willin/icon
