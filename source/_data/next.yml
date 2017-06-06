@@ -48,12 +48,6 @@ menu_icons:
   archives: archive
   commonweal: heartbeat
 
-disqus:
-  enable: false
-  shortname: willin
-  count: true
-
-
 # ---------------------------------------------------------------
 # Scheme Settings
 # ---------------------------------------------------------------
