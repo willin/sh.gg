@@ -25,7 +25,7 @@ since: 2003
 menu:
   home: /
   about: /about
-  feeling: /feeling
+  # feeling: /feeling
   categories: /categories
   tags: /tags
   archives: /archives
