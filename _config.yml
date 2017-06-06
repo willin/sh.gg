@@ -67,7 +67,7 @@ pagination_dir: page
 theme: next
 
 disqus:
-  enable: false
+  enable: true
   shortname: willin
   count: true
 
