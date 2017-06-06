@@ -6,7 +6,7 @@
     "version": "3.3.7"
   },
   "scripts": {
-    "start": "./deploy-ghpages"
+    "start": "./deploy-ghpages.sh"
   },
   "dependencies": {
     "hexo": "^3.3.7",
