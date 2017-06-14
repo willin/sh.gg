@@ -97,9 +97,16 @@ http.createServer((req, res) => {
 
 假如你的动态解析域名是 `willin.wang`
 
-你只要通过浏览器访问下面的地址即可进行唤醒操作.
+如果电脑进入睡眠了,用手机访问下面的地址,即可进行唤醒.
 
 ```
 http://willin.wang:1234/
 ```
 
+## 祭出神器
+
+TeamViewer, 配置无人值守和轻松访问.
+
+![teamviewer](https://user-images.githubusercontent.com/1890238/27117314-adf4255e-509b-11e7-904b-b751ec392b32.png)
+
+享受吧.
