@@ -49,7 +49,7 @@ sudo pmset -a standby 0
 
 ![port-forward](https://cloud.githubusercontent.com/assets/1890238/26823706/2e63f1bc-4ae1-11e7-896e-df145d8b4400.jpg)
 
-端口转发的话
+端口转发的话,设置 `1234` 端口(参考下文js代码).
 
 ## 配置动态域名解析
 
