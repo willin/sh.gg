@@ -1,6 +1,6 @@
 ---
 title: Docsify画图建模Mermaid插件支持
-date: 2016-06-20 15:54:54
+date: 2017-06-20 15:54:54
 layout: post
 categories: dev
 tags: [docsify,markdown,plugin]
