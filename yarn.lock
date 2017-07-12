@@ -817,17 +817,23 @@ hexo-generator-index@^0.2.1:
     hexo-pagination "0.0.2"
     object-assign "^4.0.1"
 
-hexo-generator-json@^0.0.1:
-  version "0.0.1"
-  resolved "http://registry.npm.taobao.org/hexo-generator-json/download/hexo-generator-json-0.0.1.tgz#348e722322a062a88a695e31823ae211ae1aeb2c"
-  dependencies:
-    json3 "~3.3.1"
+"hexo-generator-json@github:52cik/hexo-generator-json":
+  version "0.3.0"
+  resolved "https://codeload.github.com/52cik/hexo-generator-json/tar.gz/1c928f6629d6c67785a9fdd8d2339cfae5213c43"
 
 hexo-generator-search@^2.1.1:
   version "2.1.1"
   resolved "http://registry.npm.taobao.org/hexo-generator-search/download/hexo-generator-search-2.1.1.tgz#bce5651b9c0dc1d3b0dd6d40e025fba412e788d9"
   dependencies:
     ejs "^1.0.0"
+    utils-merge "^1.0.0"
+
+hexo-generator-searchdb@^1.0.7:
+  version "1.0.7"
+  resolved "http://registry.npm.taobao.org/hexo-generator-searchdb/download/hexo-generator-searchdb-1.0.7.tgz#1ba62e2c62501112cd1f2ba5a16e98e619124d54"
+  dependencies:
+    ejs "^1.0.0"
+    striptags latest
     utils-merge "^1.0.0"
 
 hexo-generator-tag@^0.2.0:
@@ -1160,10 +1166,6 @@ json-stringify-safe@~5.0.1:
   version "5.0.1"
   resolved "http://registry.npm.taobao.org/json-stringify-safe/download/json-stringify-safe-5.0.1.tgz#1296a2d58fd45f19a0f6ce01d65701e2c735b6eb"
 
-json3@~3.3.1:
-  version "3.3.2"
-  resolved "http://registry.npm.taobao.org/json3/download/json3-3.3.2.tgz#3c0434743df93e2f5c42aee7b19bcb483575f4e1"
-
 jsonify@~0.0.0:
   version "0.0.0"
   resolved "http://registry.npm.taobao.org/jsonify/download/jsonify-0.0.0.tgz#2c74b6ee41d93ca51b7b5aaee8f503631d252a73"
@@ -1297,13 +1299,13 @@ moment-timezone@^0.5.4:
   dependencies:
     moment ">= 2.9.0"
 
-"moment@>= 2.9.0", moment@^2.10.6, moment@~2.13.0:
-  version "2.13.0"
-  resolved "http://registry.npm.taobao.org/moment/download/moment-2.13.0.tgz#24162d99521e6d40f99ae6939e806d2139eaac52"
-
-moment@^2.18.0:
+"moment@>= 2.9.0", moment@^2.10.6, moment@^2.18.0:
   version "2.18.1"
   resolved "http://registry.npm.taobao.org/moment/download/moment-2.18.1.tgz#c36193dd3ce1c2eed2adb7c802dbbc77a81b1c0f"
+
+moment@~2.13.0:
+  version "2.13.0"
+  resolved "http://registry.npm.taobao.org/moment/download/moment-2.13.0.tgz#24162d99521e6d40f99ae6939e806d2139eaac52"
 
 morgan@^1.6.1:
   version "1.8.2"
@@ -1828,6 +1830,10 @@ strip-json-comments@~2.0.1:
 striptags@^2.1.1:
   version "2.2.1"
   resolved "http://registry.npm.taobao.org/striptags/download/striptags-2.2.1.tgz#4c450b708d41b8bf39cf24c49ff234fc6aabfd32"
+
+striptags@latest:
+  version "3.0.1"
+  resolved "http://registry.npm.taobao.org/striptags/download/striptags-3.0.1.tgz#48f0d6932549c47bb3582920c87527cf49a160c1"
 
 stylus@0.54.5, stylus@^0.54.5:
   version "0.54.5"

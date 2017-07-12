@@ -82,6 +82,8 @@ social:
 search:
   path: search.xml
   field: post
+  format: html
+  limit: 10000
 
 plugin_json:
   path: feed.jsonp # 生成的文件名

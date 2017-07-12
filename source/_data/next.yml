@@ -133,3 +133,6 @@ leancloud_visitors:
   enable: true
   app_id: ROulbl01OhQ1zSLXnsfgvJ80-gzGzoHsz
   app_key: dh6F1G424YmhrtpPlxhOWygx
+
+local_search:
+  enable: true

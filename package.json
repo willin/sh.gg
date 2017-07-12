@@ -17,6 +17,7 @@
     "hexo-generator-index": "^0.2.1",
     "hexo-generator-json": "github:52cik/hexo-generator-json",
     "hexo-generator-search": "^2.1.1",
+    "hexo-generator-searchdb": "^1.0.7",
     "hexo-generator-tag": "^0.2.0",
     "hexo-renderer-ejs": "^0.3.0",
     "hexo-renderer-marked": "^0.3.0",
