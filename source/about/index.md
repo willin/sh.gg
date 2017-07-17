@@ -1,3 +1,4 @@
+---
 title: About
 ---
 
@@ -9,7 +10,7 @@ Sex: *Male*
 
 Location: *Nanjing, China*
 
-Position: *Enterprise Systems Engineer*
+Position: *CTO*
 
 ### Follow Me
 
@@ -26,7 +27,7 @@ Weibo: <http://weibo.com/willinx>
 
 欢迎您，第N位访客! 我是***王之琳 Willin Wang***。位于[南京市·江宁区](http://j.map.baidu.com/CGvMC)。生日89年6月，男。生下来是个胖子，长成了瘦子，现在又变成了胖子……
 
-目前从事技术经理、架构师。
+目前从事技术总监、架构师。
 
 毕业于金陵科技学院NIIT专业，是认证的企业系统工程师(DNIIT Enterprise Systems Engineer)和面向对象应用开发者(NIIT Object Oriented Application Developer)。
 
@@ -39,7 +40,7 @@ Weibo: <http://weibo.com/willinx>
 
 Hi, the No.N Visitor! My Name is Willin Wang (Wang Zhilin in Chinese). Now located in Nanjing, China. Born in June 3rd,1989 at a small hospital of Haian, Jiangsu Province, China. When just born I was a fatso. Long days after being slim, I am a fatass again now…
 
-Now I’m working as a Cloud Systems Engineer, Architecture.
+Now I’m working as a CTO, Architecture.
 
 Graduated from Jinling Institute of Technology (Major in NIIT Software Development), Certified DNIIT Enterprise Systems Engineer and NIIT Object Oriented Application Developer.
 
