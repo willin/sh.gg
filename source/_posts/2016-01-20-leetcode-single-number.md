@@ -101,3 +101,13 @@ var singleNumber = function(nums) {
 };
 ```
 
+es6:
+
+```js
+/**
+ * @param {number[]} nums
+ * @return {number}
+ */
+const singleNumber = (nums) => nums.reduce((x, y) => x^y);
+```
+
