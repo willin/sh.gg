@@ -9,6 +9,11 @@ tags: [domain]
 
 > 更新时间2017年2月26日。
 
+{% cq %} 
+2017.08 更新一个Node.js写的爬虫脚本,可以一次性获得最新列表: 
+<https://github.com/willin/beian-domain>
+{% endcq %}
+
 <!-- more -->
 
 
