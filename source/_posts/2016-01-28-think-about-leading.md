@@ -1,6 +1,6 @@
 date: 2016-01-28 19:13:09
 layout: post
-title: 2016.1.27 治国
+title: 2016.01.27 治国
 categories: CheriShe
 tags: [life,career,mood]
 ---

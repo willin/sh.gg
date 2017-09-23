@@ -1,6 +1,6 @@
 date: 2016-01-05 16:17:02
 layout: post
-title: 2016.1.5 多面世界
+title: 2016.01.05 多面世界
 categories: CheriShe
 tags: [life,love,mood]
 ---
