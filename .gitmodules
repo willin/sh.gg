@@ -1,3 +1,6 @@
 [submodule "themes/next"]
 	path = themes/next
-	url = https://github.com/iissnan/hexo-theme-next
+	url = https://github.com/theme-next/hexo-theme-next
+[submodule "themes/next/source/lib/pace"]
+	path = themes/next/source/lib/pace
+	url = https://github.com/theme-next/theme-next-pace
