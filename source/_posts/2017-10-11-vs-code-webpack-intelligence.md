@@ -26,6 +26,7 @@ resolve: {
   }
 ```
 
+<!-- more -->
 ### Eslint 选配
 
 需要安装插件 `eslint-import-resolver-webpack`。进行配置：
