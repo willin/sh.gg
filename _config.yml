@@ -3,16 +3,16 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: W2B
-subtitle: 请移步至 sh.gg
-description: 请移步至 sh.gg
+title: 山沟沟
+subtitle: 来自山沟沟的 Willin Wang
+description: 来自山沟沟的 Willin Wang
 author: Willin Wang
-language: zh-Hans
+language: zh-CN
 timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://blog.willin.wang
+url: https://sh.gg
 root: /
 permalink: posts/:year/:title/
 permalink_defaults:
@@ -68,16 +68,7 @@ theme: next
 
 creative_commons: by-nc
 since: 2009
-avatar: https://up.js.cool/willin/icon
-#avatar: http://www.gravatar.com/avatar/e87b264d88631de777ecfe2abb602de6?size=128
-# Social links
-social:
-  Love: http://willin.love
-  GitHub: https://github.com/willin
-  Willog: http://now.willin.wang
-  JianShu: http://www.jianshu.com/users/6c72e78080ff
-  Resume: http://now.willin.wang/cv/
-  Weibo: http://weibo.com/willinx
+avatar: http://www.gravatar.com/avatar/e87b264d88631de777ecfe2abb602de6?size=128
 
 search:
   path: search.xml
