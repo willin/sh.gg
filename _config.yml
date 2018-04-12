@@ -68,7 +68,7 @@ theme: next
 
 creative_commons: by-nc
 since: 2009
-avatar: http://www.gravatar.com/avatar/e87b264d88631de777ecfe2abb602de6?size=128
+avatar: https://www.gravatar.com/avatar/e87b264d88631de777ecfe2abb602de6?size=128
 
 search:
   path: search.xml
