@@ -264,6 +264,8 @@ post_meta:
   updated_at: false
   # Only show 'updated' if different from 'created'.
   updated_diff: false
+  # If true, post's time format will be hexo config's date_format + ' ' + time_format.
+  date_time_merge: false
   categories: true
 
 # Post wordcount display settings
@@ -309,6 +311,13 @@ related_posts:
 post_copyright:
   enable: false
   license: <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" rel="external nofollow" target="_blank">CC BY-NC-SA 4.0</a>
+
+# Post edit
+# Dependencies: https://github.com/hexojs/hexo-deployer-git
+post_edit:
+  enable: false
+  url: https://github.com/theme-next/theme-next.org/_posts/tree/master/ # Link for view source.
+# url: https://github.com/theme-next/theme-next.org/_posts/edit/master/ # Link for fork & edit.
 
 
 # ---------------------------------------------------------------
@@ -951,3 +960,4 @@ images: images
 
 # Theme version
 version: 6.1.0
+
