@@ -20,7 +20,7 @@ links:
 
 # Social links
 social:
-  Love: http://willin.love 
+  Love: http://willin.love
   GitHub: https://github.com/willin || github
   Willog: http://now.willin.wang
   JianShu: http://www.jianshu.com/users/6c72e78080ff
@@ -48,6 +48,7 @@ scheme: Gemini
 
 leancloud_visitors:
   enable: true
+  security: false
   app_id: ROulbl01OhQ1zSLXnsfgvJ80-gzGzoHsz
   app_key: dh6F1G424YmhrtpPlxhOWygx
 
