@@ -1,5 +1,5 @@
 ---
-tags: 前端, 技巧
+tags: [front-end, suggestion]
 date:  2017-10-11 11:29
 title:  VSCode配置Webpack路径提示及智能跳转
 categories: note
@@ -38,7 +38,7 @@ settings:
       config: 'build/webpack.config.js'
 ```
 
-## 智能路径提示 
+## 智能路径提示
 
 需要安装插件`Path Intellisense`，并且进行配置（项目或者全局的`settings.json`）：
 
