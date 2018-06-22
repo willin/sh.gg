@@ -1,7 +1,7 @@
 ---
 title: 创意分享：Github/Coding 聚合客户端
 date: 2017-09-13 02:53
-tags:  创意, app
+tags:  [app]
 categories: idea
 ---
 
