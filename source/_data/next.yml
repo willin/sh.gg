@@ -187,7 +187,7 @@ symbols_count_time:
   wpm: 200
 
 # Reward
-reward_comment: 壕，请用金钱羞辱我！
+reward_comment: 便于鸣谢，捐赠请留下网名~
 wechatpay: /static/images/wx.png
 alipay: /static/images/qr.png
 #bitcoin: /images/bitcoin.png
