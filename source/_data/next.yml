@@ -15,16 +15,16 @@ keywords: "Willin,长岛冰泪,W2B,W3log"
 links_title: Links
 links_layout: inline
 links:
-  js.cool: https://js.cool/
-  公司团队: http://blog.airdwing.com/
+  js.cool: https://js.cool
+  log.lu: https://log.lu
 
 # Social links
 social:
-  Love: http://willin.love
+  Love: https://willin.wang
   GitHub: https://github.com/willin || github
-  Willog: http://now.willin.wang
+  Willog: https://now.willin.wang
   JianShu: http://www.jianshu.com/users/6c72e78080ff
-  Resume: http://now.willin.wang/cv/
+  Resume: https://willin.wang
   Weibo: http://weibo.com/willinx || weibo
 
 social_icons:
