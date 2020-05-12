@@ -3,7 +3,7 @@
   "version": "3.0.0",
   "private": true,
   "hexo": {
-    "version": "3.7.0"
+    "version": "3.9.0"
   },
   "scripts": {
     "test": "hexo s",

@@ -36,9 +36,6 @@ social_icons:
   # Example encoded link: `GitHub: aHR0cHM6Ly9naXRodWIuY29tL3RoZW1lLW5leHQ= || github`
   exturl: false
 
-# Specify the date when the site was setup
-since: 2003
-
 disqus:
   enable: true
   shortname: willin
@@ -59,7 +56,7 @@ local_search:
 footer:
   # Specify the date when the site was setup.
   # If not defined, current year will be used.
-  #since: 2015
+  since: 2003
 
   # Icon between year and copyright info.
   icon:
