@@ -17,6 +17,8 @@ tags: [career, thought tech, suggestion, product]
 
 为减少重复代码量和修改，和保证结构的稳定性，可以参考 TypeScript Handbook 中的一些小技巧：
 
+<!-- more -->
+
 - Type Manipulation： 从类型创建类型、泛型、 keyof、 typeof、索引访问、条件类型、映射类型、模板文字类型
 - Utility Types： `Partial<Type>`、`Pick<Type, Keys>`、`Omit<Type, Keys>`、 `Exlude<Type, ExludedUnion>`、`Parameters<Type>`、`ReturnType<Type>` 等
 
@@ -31,8 +33,6 @@ tags: [career, thought tech, suggestion, product]
 即最简化可实行产品原则，按照以下顺序进行设计和实现：明确需求，满足基本需求，保证稳定性，完善需求，扩展需求，提高性能。
 
 冰冻三尺非一日之寒。一口也吃不成一个胖子。无论多复杂的业务模块，都是拆分成了一个个小的子任务，每一个子任务模块设计完备了，进行扩展和整合。
-
-<!-- more -->
 
 #### 分治原则
 
@@ -76,7 +76,7 @@ export class BaseDto {
         dismissDefaultMessages: true,
         stopAtFirstError: true,
         whitelist: true,
-        forbidNonWhitelisted: true
+        forbidNonWhitelisted: true,
       });
       if (errors?.length > 0) {
         throw new Error("Validation Error Occurred");
@@ -94,7 +94,7 @@ import {
   IsMobilePhone,
   IsEnum,
   IsOptional,
-  IsString
+  IsString,
 } from "class-validator";
 import { UserEntity, UserRole } from "../entity";
 import { getUserByUid } from "./get_user_by_uid.dao";
@@ -186,8 +186,6 @@ export function createUser(user: CreateUserDto) {
 }
 ```
 
-
-
 # 容器化开发
 
 ## 本地环境模块化
@@ -197,8 +195,6 @@ export function createUser(user: CreateUserDto) {
 以 MySQL 为例，以前都是安装在本地，所有应用程序共用，只有一个版本，并且一旦出了问题，卸载重装也是很麻烦的事情。
 
 现在只需要一个 Docker Compose 文件定义好启动即可，示例：
-
-
 
 ```yaml
 # docker-compose.yml
@@ -228,11 +224,7 @@ services:
     network_mode: bridge
 ```
 
-
-
 配置好用户名密码、字符集、设定当前目录下来存放数据、日志和配置文件。
-
-
 
 简单的几个命令进行操作：
 
@@ -242,30 +234,24 @@ docker-compose up -d
 # 停止
 docker-compose down
 # 删除所有数据
-rm -rf data conf logs 
+rm -rf data conf logs
 # 重新创建镜像
 docker-compose up -d --force-recreate
 ```
-
-
 
 更多实用的容器参考项目： <https://github.com/WhiteMatrixTech/dev-in-docker>
 
 ## 模块化运行
 
-以 Node.js 为例。 
+以 Node.js 为例。
 
 推荐镜像： `node:16-alpine` （如非特殊情况，使用当前最新的 alpine 版本）
 
 更多镜像参考官方 Hub： https://hub.docker.com/_/node/
 
-
-
 ### 本地调试
 
 TBD.
-
-
 
 ### 镜像发布
 
@@ -281,15 +267,13 @@ LABEL maintainer "Willing Wang<i@sh.gg>"
 COPY . /app
 WORKDIR /app
 
-RUN yarn 
+RUN yarn
 RUN yarn build
 
 EXPOSE 3000
 CMD [ "node", "dist/server.js" ]
 
 ```
-
-
 
 ```bash
 # 打包镜像
@@ -298,12 +282,6 @@ docker build . -t <username>/node-app
 docker run -p 3000:3000 <username>/node-app
 ```
 
-
-
-
-
 # 模块化开发
-
-
 
 TBD.
