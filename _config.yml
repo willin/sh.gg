@@ -12,7 +12,7 @@ timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://sh.gg
+url: https://old.sh.gg
 root: /
 permalink: posts/:year/:title/
 permalink_defaults:
@@ -86,6 +86,6 @@ plugin_json:
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
-- type: git
-  repo: git@github.com:willin/blog.willin.wang.git
-  branch: gh-pages
+  - type: git
+    repo: git@github.com:willin/blog.willin.wang.git
+    branch: gh-pages
