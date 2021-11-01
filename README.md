@@ -4,4 +4,4 @@
 
 Willin Wang's Blog
 
-请移步： <https://oldsh.gg>
+请移步： <https://old.sh.gg>
